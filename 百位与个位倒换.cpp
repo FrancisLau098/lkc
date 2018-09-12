@@ -31,6 +31,8 @@ int main() {
 	}
 	cout << sum / 10 << endl;
 
+	//test3
+
 
 		while (1) {}
 	return 0;
